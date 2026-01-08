@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import 'global.css';
+@import 'tipografia.css';
+@import 'cores.css';
+@import 'header.css';
+@import 'componentes.css';
+@import 'introducao.css';
+@import 'bicicletas/bicicletas-lista.css';
+@import 'tecnologia.css';
+@import 'parceiros.css';
+@import 'depoimento.css';
+@import 'seguros.css';
+@import 'footer.css';
+@import 'termos.css';
+@import 'bicicletas.css';
+@import 'vantagens-seguros.css';
+@import 'perguntas-seguros.css';
+@import 'bicicleta-modelo/bicicleta.css';
+@import 'bicicletas/seguro.css';
+@import 'contato/contato.css';
+@import 'formulario.css';
+@import 'contato/lojas.css';
+@import 'orcamento/orcamento.css'
